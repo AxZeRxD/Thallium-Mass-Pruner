@@ -1,6 +1,5 @@
 # 50 STAR ⭐
 
-## [download](https://github.com/AxZeRxD/Thallium-Mass-Pruner/releases/download/Thallium-Mass-Pruner/launcher.zip)
 
 
 - Repository Push at 50 Stars..! 
